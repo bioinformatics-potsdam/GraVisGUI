@@ -2528,3 +2528,9 @@ def get_key_from_value(dictionary, value):
     for key, val in dictionary.items():
         if val == value:
             return(key)
+
+
+if __name__ == "__main__":
+    root = Tk()
+    app = ShapeGui(root)
+    root.mainloop()
