@@ -1,0 +1,11 @@
+# NOTE: some of these dependencies are TOO NEW for the code, but I didn't have time to investigate these, yet.
+#
+scikit-image==0.24.0
+scikit-learn==1.5.2
+matplotlib==3.9.2
+read-roi==1.6.0
+shapely==2.0.6
+pandas==2.2.3
+networkx==3.4.2
+numpy==2.1.3
+pillow==11.0.0
